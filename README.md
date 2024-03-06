@@ -18,7 +18,7 @@
 ![notion](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000)
 -->
 <h3>🚀 About Me</h3> 
-<h4> I'm Omar Said from Egypt. I'm a Front-End Developer . I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior web developer and learning increasingly. </h4>
+<h4> I'm Omar Hafez from Egypt. I'm a Front-End Developer . I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior web developer and learning increasingly. </h4>
 
 
 	
